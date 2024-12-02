@@ -24,7 +24,7 @@ using namespace std;
 };
 
  int main(){
-    teacher t1; //object made
+    teacher t1; //object made  //constructor call happens here
     t1.name="Pallavi";
     t1.dept="Computer science";
     cout<<t1.name;
